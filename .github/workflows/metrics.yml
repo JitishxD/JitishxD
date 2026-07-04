@@ -83,6 +83,6 @@ jobs:
           git config --global user.email "Jitish08+bot@gmail.com"
           git config --global user.name "JitishBot"
           git add *.svg
-          git commit -a -m "[Github Actions] Updated Stats svgs"
-          #git commit --amend --no-edit
+          #git commit -a -m "[Github Actions] Updated Stats svgs"
+          git commit --amend --no-edit
           git push -f
