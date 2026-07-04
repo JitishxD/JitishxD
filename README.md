@@ -60,10 +60,6 @@ If you like my work, hit **✨ Follow ✨** for updates
 ## Lifetime
 
 <p align="center">
-<img align="center" src="metrics.year.calendar.svg"/>
-</p>
-
-<p align="center">
 <img align="center" src="metrics.calendar.full.svg"/>
 </p>
 
